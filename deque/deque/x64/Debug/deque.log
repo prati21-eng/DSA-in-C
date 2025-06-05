@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Avani\source\repos\deque\deque\Source.c(21,18): warning C4133: 'return': incompatible types - from 'deque *' to 'queue *'
+C:\Users\Avani\source\repos\deque\deque\Source.c(86,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avani\source\repos\deque\deque\Source.c(138,31): warning C4133: '=': incompatible types - from 'queue *' to 'deque *'
+  deque.vcxproj -> C:\Users\Avani\source\repos\deque\x64\Debug\deque.exe
