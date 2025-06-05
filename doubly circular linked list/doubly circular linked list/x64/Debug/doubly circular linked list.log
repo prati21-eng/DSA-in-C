@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Avani\source\repos\doubly circular linked list\doubly circular linked list\Source.c(27): warning C4715: 'createnode': not all control paths return a value
+  doubly circular linked list.vcxproj -> C:\Users\Avani\source\repos\doubly circular linked list\x64\Debug\doubly circular linked list.exe

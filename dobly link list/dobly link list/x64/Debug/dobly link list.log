@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Avani\source\repos\dobly link list\dobly link list\Source.c(27): warning C4715: 'createnode': not all control paths return a value
+  dobly link list.vcxproj -> C:\Users\Avani\source\repos\dobly link list\x64\Debug\dobly link list.exe
