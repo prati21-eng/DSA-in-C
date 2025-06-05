@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Avani\source\repos\BST\BST\Source.c(108,31): warning C4133: '=': incompatible types - from 'node *' to 'root *'
+C:\Users\Avani\source\repos\BST\BST\Source.c(114,35): warning C4133: 'return': incompatible types - from 'root *' to 'node *'
+C:\Users\Avani\source\repos\BST\BST\Source.c(127,56): warning C4133: '=': incompatible types - from 'node **' to 'root **'
+C:\Users\Avani\source\repos\BST\BST\Source.c(28): warning C4715: 'createnode': not all control paths return a value
+  BST.vcxproj -> C:\Users\Avani\source\repos\BST\x64\Debug\BST.exe
